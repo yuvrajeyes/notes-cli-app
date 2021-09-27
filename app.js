@@ -118,7 +118,7 @@ yargs
 
     builder: {
       title: {
-        describe: "Title of the note to list",
+        describe: "Title of the note to show",
         alias: "t",
         demandOption: true,
         type: "string",
